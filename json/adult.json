@@ -101,18 +101,6 @@
       }
     },
     {
-      "key": "Hanime",
-      "name": "Hanime",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1,
-      "proxy": true,
-      "style": {
-        "type": "rect",
-        "ratio": 0.68
-      }
-    },
-    {
       "key": "dadiapi.com",
       "name": "成人01",
       "type": 0,
@@ -281,18 +269,6 @@
       }
     },
     {
-      "key": "888dav.com",
-      "name": "成人35",
-      "type": 1,
-      "api": "https://www.888dav.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
       "key": "pgxdy.com",
       "name": "成人39",
       "type": 0,
@@ -390,18 +366,6 @@
       }
     },
     {
-      "key": "sewozyapi.com",
-      "name": "成人50",
-      "type": 1,
-      "api": "https://sewozyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
       "key": "api.apilyzy.com",
       "name": "成人52",
       "type": 1,
@@ -412,14 +376,6 @@
         "type": "rect",
         "ratio": 1.33
       }
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "changeable": 0
     }
   ],
   "rules": [
