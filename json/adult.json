@@ -113,18 +113,6 @@
       }
     },
     {
-      "key": "jcspcj8.com",
-      "name": "成人02",
-      "type": 0,
-      "api": "http://jcspcj8.com/api?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
       "key": "apilj.com",
       "name": "成人03",
       "type": 1,
@@ -149,18 +137,6 @@
       }
     },
     {
-      "key": "cjmygzy.com",
-      "name": "成人06",
-      "type": 0,
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
       "key": "bttcj.com",
       "name": "成人07",
       "type": 0,
@@ -177,18 +153,6 @@
       "name": "成人08",
       "type": 1,
       "api": "http://api.sexnguon.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "feifei67.com",
-      "name": "成人09",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -225,18 +189,6 @@
       "name": "成人12",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "ggmmzy.com",
-      "name": "成人15",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
       "recordable": 0,
       "style": {
