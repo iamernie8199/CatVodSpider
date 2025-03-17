@@ -31,15 +31,6 @@
       }
     },
     {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "proxy": true,
-      "ext": "1"
-    },
-    {
       "key": "量子",
       "name": "量子",
       "type": 0,
@@ -151,18 +142,6 @@
       "name": "成人05",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "bttcj.com",
-      "name": "成人07",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -332,18 +311,6 @@
       "name": "成人49",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "api.apilyzy.com",
-      "name": "成人52",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
