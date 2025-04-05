@@ -162,18 +162,6 @@
       }
     },
     {
-      "key": "llzxcj.com",
-      "name": "成人10",
-      "type": 0,
-      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
       "key": "f2dcj6.com",
       "name": "成人11",
       "type": 0,
@@ -246,35 +234,10 @@
       }
     },
     {
-      "key": "afasu.com",
-      "name": "成人41",
-      "type": 0,
-      "api": "https://www.afasu.com/api/xml.php",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-
-    {
       "key": "lbapi9.com",
       "name": "成人43",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      }
-    },
-    {
-      "key": "kkzy.me",
-      "name": "成人45",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
       "recordable": 0,
       "style": {
